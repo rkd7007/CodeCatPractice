@@ -1,0 +1,59 @@
+{
+"Shop" : [
+  {
+    "CategoryName" : "루비 상점",
+    "Products" : [
+      {
+        "Name" : "루비 540개",
+        "Price" : 4400,
+        "Detail" : "루비 540개 지급"
+      },
+      {
+        "Name" : "루비 920개",
+        "Price" : 6600,
+        "Detail" : "루비 920개 지급"
+      },
+      {
+        "Name": "루비 1900개",
+        "Price": 12000,
+        "Detail": "루비 1900개 지급"
+      }
+    ]
+  },
+  {
+    "CategoryName" : "한정 패키지",
+    "Products" : [
+      {
+        "Name" : "스타터 팩",
+        "Price" : 4400,
+        "Detail" : "4성 캐릭터 소환권 1장"
+      },
+      {
+        "Name" : "아이리 팩",
+        "Price" : 5500,
+        "Detail" : "금괴 2개, 고급 재련 주문서 100장"
+      },
+      {
+        "Name" : "미아 팩",
+        "Price" : 39000,
+        "Detail" : "루비 4050개"
+      },
+      {
+        "Name" : "릴리스 팩",
+        "Price" : 110000,
+        "Detail" : "금괴 48개"
+      }
+    ]
+  },
+  {
+    "CategoryName": "성장 패키지",
+    "Products": [
+      {
+        "Name": "성장 지원 패키지",
+        "Price": 39000,
+        "Detail": "루비 9600개 혜택"
+      }
+    ]
+  }
+ ]
+}
